@@ -1,0 +1,1 @@
+{"version":3,"sources":["_layout.scss"],"names":[],"mappings":"AACA,KACE,sBAFe,CAGhB","file":"main.css","sourcesContent":["$font: sans-serif;\nbody {\n  font-family: $font;\n}"]}
